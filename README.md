@@ -90,7 +90,7 @@ This project is a Golang-based application that imports data from an Excel file,
 
 ### Update Record
 
-- **URL:** `/records/:id`
+- **URL:** `/user/:id`
 - **Method:** `PUT`
 - **Description:** Update a record by ID.
 - **Parameters:**
